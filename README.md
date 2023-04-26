@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a bioinformatics student and consider myself a responsible and organized person. I am excited to gain my first professional experience. 👋
 
 <!--
 **Gho2st/Gho2st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
