@@ -5,7 +5,7 @@
 
 - 📫 Seeking my first **job opportunity.**
 
-- ⚡🤔 I’m working on **my portfolio - version(2)**
+- ⚡ I’m working on **my portfolio - version(2)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
