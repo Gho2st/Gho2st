@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react, node.js, ejs.**
 
-- 📫 I'm searching my **first job.**
+- 📫 Seeking my first **job opportunity.**
 
 - ⚡🤔 I’m working on **my portfolio - version(2)**
 
