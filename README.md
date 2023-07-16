@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-## About Me
-I am a bioinformatics student with a passion for web development. I'm eager to contribute to projects that bridge these domains.
+<h3>About Me</h3>
+<p>I am a bioinformatics student with a passion for web development. I'm eager to contribute to projects that bridge these domains.</p>
 
 - 🌱 I’m currently learning **react, node.js, ejs.**
 
