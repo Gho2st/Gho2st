@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">A passionate web developer from Poland</h3>
+## About Me
+I am a bioinformatics student with a passion for web development. I'm eager to contribute to projects that bridge these domains.
 
 - 🌱 I’m currently learning **react, node.js, ejs.**
 
