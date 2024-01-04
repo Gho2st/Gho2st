@@ -2,11 +2,11 @@
 <h3>About Me</h3>
 <p>I am a bioinformatics student with a passion for web development. I'm eager to contribute to projects that bridge these domains.</p>
 
-- 🌱 I’m currently learning **react, node.js, ejs.**
+- 🌱 I’m currently learning **NextJS, Blokchain**
 
 - 📫 Seeking my first **job opportunity.**
 
-- ⚡ I’m working on **my portfolio - version(2)**
+- ⚡ I’m working on **my portfolio in NEXTJS - version(2)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
