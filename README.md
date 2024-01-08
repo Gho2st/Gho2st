@@ -6,7 +6,8 @@
 
 - 📫 Seeking my **job opportunity.**
 
-- ⚡ I’m working on **my portfolio in NEXTJS - version(2)** go to <a href="https://djj-software.pl/>djj software website </a>
+- ⚡ I’m working on **my portfolio in NEXTJS - version(2)** go to <a href="https://linkedin.com/in/https://www.linkedin.com/in/dominikjojczyk/](https://www.djj-software.pl/)" target="blank"> </a>
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
