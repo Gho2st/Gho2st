@@ -23,6 +23,7 @@
 ## Technical Experience
 - 💻 I primarily use Next.js for building dynamic websites.
 - 🐍 I work with Python in various projects, especially in data analysis.
+- also: react, mysql, mongodb, php, bootstrap, react native, c, c++, esl, node.js...
 
 ## Client Projects
 - 🖥️ I've created 6 websites for clients, utilizing my skills.
