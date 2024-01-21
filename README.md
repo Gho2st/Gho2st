@@ -8,7 +8,7 @@
 
 
 ## Projects
-- 🧪 [DNA Analysis]([link_to_repository](https://github.com/Gho2st/Bioinformatic-Analyse-Dna)) - My bioinformatics project where I implemented DNA data analysis.
+- 🧪 [DNA Analysis](https://github.com/Gho2st/Bioinformatic-Analyse-Dna) - My bioinformatics project where I implemented DNA data analysis.
 ## Websites
 - 🌐 [djj-software.pl](https://djj-software.pl) - My website where I share information about my projects. Created with NextJS - check it.
 - 🌐 [dominikjojczyk.pl](https://dominikjojczyk.pl) -My first Personal website where you can learn more about me and my interests.
