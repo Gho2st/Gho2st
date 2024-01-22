@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3>About Me</h3>
-<p>I am a bioinformatics student with a passion for web development. I'm eager to contribute to projects that bridge these domains.</p>
 
 ## About Me
-- 📚 I'm studying bioinformatics in my second year.
-- 🧬 I conducted a DNA data analysis project, which you can find in this repository.
+- 📚 I'm studying bioinformatics (second year).
+- 🧬 I made a DNA data analysis project, which you can find in this repository.
+- 💪 i belive in the power of new media and cryptocurrency.
 
 
 ## Projects
