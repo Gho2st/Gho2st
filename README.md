@@ -3,7 +3,10 @@
 ## About Me
 - 📚 I'm studying bioinformatics (second year).
 - 🧬 I made a DNA data analysis project, which you can find in this repository.
-- 💪 i belive in the power of new media and cryptocurrency, feel free to ask.
+- 💪 i belive in the power of new media and cryptocurrency, feel free to ask
+
+## Currently
+- I started creating an application for renting buses - this is my idea to make people's lives easier (this has been going since February 7th). Check it! The technology is NextJS.
 
 
 ## Projects
@@ -11,7 +14,6 @@
 ## Websites
 - 🌐 [djj-software.pl](https://djj-software.pl) - My website where I share information about my projects. Created with NextJS - check it.
 - 🌐 [dominikjojczyk.pl](https://dominikjojczyk.pl) -My first Personal website where you can learn more about me and my interests.
-- I started creating an application for renting buses - this is my idea to make people's lives easier (this has been going since February 7th)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
