@@ -6,7 +6,7 @@
 - 💪 i belive in the power of new media and cryptocurrency, feel free to ask
 
 ## Currently
-- I started creating an application for renting buses - this is my idea to make people's lives easier (this has been going since February 7th). Check it! The technology is NextJS.
+- I started creating an application for renting buses - this is my idea to make people's lives easier (this has been going since February 7th). Check it! The technology is NextJS. Rent&Go
 
 
 ## Projects
@@ -26,8 +26,8 @@
 - 💻 I primarily use Next.js for building dynamic websites.
 - 🐍 I work with Python in various projects, especially in data analysis.
 - also: react, mysql, mongodb, php, bootstrap, react native, c, c++, esl, node.js , Figma...
-
+- ad, gp, ms office 365, vba
 ## Client Projects
-- 🖥️ I've created 6 websites for clients, utilizing my skills.
+- 🖥️ I've created 8 websites for clients, utilizing my skills.
 
 Thanks for visiting my GitHub profile! If you have any questions, suggestions, or want to collaborate, feel free to get in touch.
