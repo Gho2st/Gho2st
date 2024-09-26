@@ -8,8 +8,6 @@
 ## Currently
 🚍 Rent&Go: Building an innovative bus rental application to simplify transportation logistics. Check it out! Developed using Next.js.
 
-🍸 Hukimuki Web Application: Currently working on a web application for Hukimuki, a popular local club & bar with over 3,000 reviews on Google. This project focuses on enhancing customer engagement and online presence.
-
 ## Projects
 - 🧪 [DNA Analysis](https://github.com/Gho2st/Bioinformatic-Analyse-Dna) - My bioinformatics project where I implemented DNA data analysis.
 ## Websites
