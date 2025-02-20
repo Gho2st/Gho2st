@@ -12,8 +12,6 @@
 - 🧪 [DNA Analysis](https://github.com/Gho2st/Bioinformatic-Analyse-Dna) - My bioinformatics project where I implemented DNA data analysis.
 ## Websites
 - 🌐 [domiweb.pl](https://domiweb.pl) - A portfolio of my projects, crafted with Next.js. Have a look!
-- 🌐 [dominikjojczyk.pl](https://dominikjojczyk.pl) - My personal website, where you can get to know more about me, my journey, and my interests.
-
 
  
 <h3 align="left">Connect with me:</h3>
