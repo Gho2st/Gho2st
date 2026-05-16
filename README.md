@@ -1,4 +1,4 @@
-<h1 align="center">Cześć! Jestem Gho2st 👋</h1>
+<h1 align="center">Cześć!👋</h1>
 
 <p align="center">
   <strong>Full-stack Developer</strong> | Buduję praktyczne aplikacje webowe i narzędzia AI z realnym biznesowym wpływem
@@ -41,7 +41,3 @@ Pasjonuję się tworzeniem **kompletnych rozwiązań end-to-end** – od pomysł
 
 📍 Kraków / zdalnie  
 ✉️ Napisz do mnie — chętnie porozmawiam o wspólnych projektach!
-
----
-
-*„Crafting code that matters”*
