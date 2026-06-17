@@ -17,7 +17,7 @@ Stawiam na **wydajność, bezpieczeństwo, testy i czytelną architekturę**. Wd
 ### 🛠️ Wybrane projekty
 
 **🛒 [pantofle-karpaty](https://github.com/Gho2st/pantofle-karpaty)** — *Next.js 14 · Stripe · InPost · Prisma · NeonDB*
-Pełnowymiarowa platforma e-commerce dla realnego producenta obuwia, działająca na żywo ([sklep-pantofle-karpaty.pl](https://sklep-pantofle-karpaty.pl)). Cały lejek zakupowy: produkty → koszyk (localStorage + sync z serwerem) → wybór paczkomatu → płatność online → panel klienta i zamówień. Mobile-first, optymalizacja Core Web Vitals oraz SEO (SSG + SSR), bezpieczna autoryzacja i zarządzanie danymi klientów.
+Pełnowymiarowa platforma e-commerce dla realnego producenta obuwia, działająca na żywo ([pantoflekarpaty.pl](https://pantoflekarpaty.pl)). Cały lejek zakupowy: produkty → koszyk (localStorage + sync z serwerem) → wybór paczkomatu → płatność online → panel klienta i zamówień. Mobile-first, optymalizacja Core Web Vitals oraz SEO (SSG + SSR), bezpieczna autoryzacja i zarządzanie danymi klientów.
 
 **📈 [stock-market-demo](https://github.com/Gho2st/stock-market-demo)** — *Go · PostgreSQL · Docker*
 Symulator giełdy zaprojektowany pod **wysoką dostępność**: działa jako wiele replik za load balancerem, współdzielących jedną bazę Postgres — ubicie jednej repliki nie przerywa działania usługi. Każda operacja trafia do **niezmiennego audit logu**. Uruchamiany jednym `docker compose up`, lokalnie działa też na wbudowanym SQLite bez zależności zewnętrznych.
