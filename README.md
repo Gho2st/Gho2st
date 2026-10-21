@@ -4,7 +4,7 @@ Full-stack developer z Krakowa. Robię aplikacje webowe w Next.js i TypeScript: 
 
 Projekty
 
-tresetmob: sklep z odzieżą w całości w TypeScript. Next.js 16 (Server Actions), Prisma + Neon, NextAuth, płatności HotPay. Ceny i sumę liczy serwer, nie przeglądarka. Webhook płatności działa w transakcji, więc powtórzone powiadomienie nie zdejmie towaru ze stanu dwa razy. Najniższa cena z 30 dni (Omnibus) liczona z historii cen. Demo
+tresetmob: sklep z odzieżą w całości w TypeScript. Next.js 16 (Server Actions), Prisma + Neon, NextAuth, płatności HotPay. Ceny i sumę liczy serwer, nie przeglądarka. Webhook płatności działa w transakcji, więc powtórzone powiadomienie nie zdejmie towaru ze stanu dwa razy. Najniższa cena z 30 dni (Omnibus) liczona z historii cen.
 
 pantofle-karpaty: sklep producenta kapci, pantofle-karpaty.pl. Next.js, Prisma, Stripe Checkout z webhookiem, paczkomaty InPost, zdjęcia na S3, 35 endpointów API, panel admina. Nocne zadania cron aktualizują ceny i zwalniają towar z nieopłaconych zamówień.
 
