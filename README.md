@@ -14,7 +14,7 @@ uk-energy-backend / uk-energy-frontend: wyznacza godziny ładowania auta elektry
 
 stock-market-demo: symulator giełdy w Go. Kilka replik za load balancerem na wspólnym Postgresie, więc wyłączenie jednej nie zatrzymuje usługi. Każda operacja trafia do niezmiennego audit logu. Start jednym docker compose up.
 
-bot-skarbowy: bot w Pythonie, który codziennie przegląda licytacje Skarbu Państwa. Wyciąga dane z HTML, PDF i DOCX przez Gemini i wysyła mailem tylko oferty z ceną do 50% wartości rynkowej. Działa na GitHub Actions.
+bot-skarbowy: bot w Pythonie, który codziennie przegląda licytacje pojazdów na rządowym portalu eLicytacje KAS. Pobiera dane z API portalu i wysyła mailem tylko oferty z ceną do 50% wartości szacunkowej (wolna ręka do 40%), z odległością od Krakowa i linkiem do kalendarza. Działa na GitHub Actions.
 
 agent-zdrowie: moja praca inżynierska. Dziennik pomiarów (cukier, ciśnienie, waga, tętno) z czatem AI (GPT-4o), który zna dane użytkownika i normy dla jego wieku. Logowanie Google, raport PDF. agent-zdrowie.vercel.app
 
